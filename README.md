@@ -11,7 +11,7 @@
 Microsoft Surface is a series of touch-screen mobile laptop which is renowned for combining tablet and laptop seamlessly. Apple iPad is always the go-to tablet which beat competitor like Samsung Galaxy Tab and has the most sale in the past decade. However, many companies have launch tablet-like product lines and took away marketshare from apple's product. Apple ,then, launch iPad Pro and magic keyboard which make it can also works as a working laptop.
 
 <p align="center">
-<img src="../images/best_selling_tablets.PNG" width="800" />
+<img src="images/best_selling_tablets.PNG" width="800" />
 </p>
 
 [*source: https://www.statista.com/statistics/276635/market-share-held-by-tablet-vendors/*](https://www.statista.com/statistics/276635/market-share-held-by-tablet-vendors/)
@@ -19,7 +19,7 @@ Microsoft Surface is a series of touch-screen mobile laptop which is renowned fo
 While iPad is the better tablet, and it’s ideal for creative tasks, Surface is always a better laptop, well suited for tasks like writing, editing large spreadsheets and databases, and programming. With the coming of iPad with better keyboard, Microsoft has to come-up with a new idea or set next standard to prevent apple taking away the revenue is this competitive hardware market.
 
 <p align="center">
-<img src="../images/surface_vs_ipad.jpg" width="400" />
+<img src="images/surface_vs_ipad.jpg" width="400" />
 </p>
 
 Reddit is a network of communities based on people's interests. It is the massive places that people came to talk about specific topic whether to share a story ,asking question, or leaving a negative comments. Going through Reddit can tell you the trends of thing happening in that topic. Suppose that Microsoft want to develop its Surface series, as a Product Manager, the model that be able to classify post from subreddit of surface and ipad is created based on its title and context  and further analyzed to find keywords and hoping to see a diffent key interest of people in both communities.
